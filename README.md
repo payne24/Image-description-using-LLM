@@ -22,6 +22,12 @@ Required libraries (see requirements.txt)
 API key for a specific LLM service (e.g., OpenAI)
 
 Installation:
-git clone https://your-repository-url.git
-cd image-description-generator
+git clone https://github.com/payne24/Image-description-using-LLM/tree/main
 pip install -r requirements.txt
+in your terminal run:
+streamlit run app.py
+
+
+
+Acknowledgements
+This project is fueled by the potential of AI to democratize information. We're grateful to the creators of the LLM libraries that made this possible and to the open-source community for their invaluable contributions.
